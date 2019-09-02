@@ -1,9 +1,5 @@
 class DartTest{
-
-
-
-  String fname;
-  
+  String fname;  
   prinname(){
     print("$fname");
   }
